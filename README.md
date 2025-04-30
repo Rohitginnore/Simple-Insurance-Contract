@@ -70,4 +70,7 @@ The current implementation is intentionally minimal to demonstrate the core conc
    - Expand to multiple blockchain networks
    - Implement cross-chain communication for risk diversification
 
-This project serves as a foundational example of how blockchain can reinvent insurance, providing a starting point for more complex and feature-rich decentralized insurance products.
+##contract Details :0xf8e81D47203A594245E36C48e151709F0C19fBe8
+![image](https://github.com/user-attachments/assets/ac78c057-651d-4342-81e8-bdb01aab521b)
+
+![image](https://github.com/user-attachments/assets/1313af90-b8a9-49e5-8989-7412585d23e3)
